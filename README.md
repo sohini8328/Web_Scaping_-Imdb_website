@@ -4,6 +4,7 @@ Introduction
 The purpose of this project is to conduct web scraping on the IMDB website and accumulate data of 100 movies across different genres and 100 actors who have worked in those chosen movies. The goal was to determine which genres were more profitable in particular decades. Additionally, the project explored the intricate relationship between the popularity and ratings of movies. It also examined the significance of experience or talent for winning awards in the Hollywood industry.
 
 Tools and Technologies Used
+
 Python: The primary programming language used for web scraping and data analysis.
 
 BeautifulSoup: A Python library used to scrape and parse HTML data from the IMDB website.
