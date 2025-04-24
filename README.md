@@ -60,4 +60,4 @@ Ratings and Popularity: The Pearson correlation revealed that higher IMDB rating
 
 Award Nominations as Predictors: Award nominations were found to be the strongest predictors of award wins. However, having more experience in various movie industry roles did not necessarily lead to more awards. This suggests that industry recognition through nominations is more crucial for winning awards than the number of credits.
 
-While both datasets provided valuable insights, the analysis is limited due to the small sample size, selection bias, lack of full genre representation, and limited actor career data. Future studies could benefit from larger datasets and more diverse genre inclusion for more comprehensive conclusions.
+While both datasets provided valuable insights, the analysis is limited due to the small sample size, selection bias, lack of full genre representation, and limited actor career data. Future studies could benefit from larger datasets and more diverse genre inclusion for more comprehensive conclusions.  How to Run Clone this repository: https://github.com/sohini8328/Web_Scaping_-Imdb_website.git
